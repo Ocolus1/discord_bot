@@ -61,4 +61,4 @@ async def cyrpto(ctx, value):
         print(e)
 
 
-client.run('NzI0MDEwNzcxMjg1MTQ3NzA4.Xu6ROg.a9xwmhdfLnB1YkRGdA2NMkOeLww')
+client.run(TOKEN)
